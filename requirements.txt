@@ -1,0 +1,10 @@
+numpy
+rasterio
+ipyleaflet
+ipywidgets
+matplotlib
+Pillow
+voila
+notebook
+geopandas
+rasterstats
